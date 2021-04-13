@@ -1,5 +1,4 @@
-# Gutto França :brazil:
-<sub>*Data Scientist*</sub>
+# Hi!
 
 <div style="text-align: justify;">  I've been studying Data Science since 2020, always developing projects as a way of learning. All my work is focused on solving business problems using concepts and tools of Data Science. I have already developed solutions in sales forecast and client churn prediction.
 </div>
