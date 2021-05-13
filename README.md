@@ -20,7 +20,7 @@
 **Machine Learning Deployment:** Heroku and AWS Cloud.
 
 **:house_with_garden: How to reach me:**
-* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gutto-frança-a2574490/)
+* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gutto-laudie/)
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guttolaudie@gmail.com)](mailto:guttolaudie@gmail.com)
 
 ## Data Science Projects:
