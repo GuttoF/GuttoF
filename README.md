@@ -28,7 +28,7 @@
 ### [Rossmann Sales Forecast](https://github.com/GuttoF/Rossmann-Store-Sales)
 My strategy to solve this challenge was test machine learning models to forecast sales for the next 6 weeks and decide which will bring the best result for the company. After the modelling, the delivered solution was a telegram bot that receives the store number and returns the forescast for the next weeks.
 
-### [Client Churn Prediction](https://github.com/GuttoF/client-churn-prediction)
+### [Client Churn Prediction](https://github.com/GuttoF/client_churn_prediction)
 With a classic churn prediction problem with imbalanced data, I train a machine learning algorithm to predict churn clients and create a strategy to bring back the clients. The solution was created with a help of the 0-1 Knapsack Problem and a possible investment of $10000.
 
 <p>
