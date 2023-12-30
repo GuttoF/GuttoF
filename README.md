@@ -23,9 +23,9 @@
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gutto-laudie/)
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guttolaudie@gmail.com)](mailto:guttolaudie@gmail.com)
 
-## Data Science Projects:
+## My Top 2 Data Science Projects:
 
-### [Rossmann Sales Forecast](https://github.com/GuttoF/Rossmann-Store-Sales)
+### [Rossmann Sales Forecast](https://github.com/GuttoF/rossmann_store_sales)
 My strategy to solve this challenge was test machine learning models to forecast sales for the next 6 weeks and decide which will bring the best result for the company. After the modelling, the delivered solution was a telegram bot that receives the store number and returns the forescast for the next weeks.
 
 ### [Client Churn Prediction](https://github.com/GuttoF/client_churn_prediction)
