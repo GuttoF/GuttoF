@@ -1,38 +1,54 @@
-# Hi!
+# Hi, I'm Gutto!
 
-<div style="text-align: justify;">  I've been studying Data Science since 2020, always developing projects as a way of learning. All my work is focused on solving business problems using concepts and tools of Data Science. I have already developed solutions in sales forecast and client churn prediction.
+> * 27
+> * Data Engineer
+> * He/him
+> * Bachelor of Mechanical Engineering
+> * Current studying Systems Analysis and Development
+> * Games enthusiast! (videogames, boardgames)
+> * Training boxing
+
+
+<div style="text-align: justify;">  I've been studying Data Science and Data Engineering since 2020, always developing projects as a way of learning. All my work is focused on solving business problems using concepts and tools.
 </div>
 <p>
 </p>  
 
-**:thinking: That's what I know :**
+**:thinking: That's what I use :**
 
-**Data Collect and Storage:** SQL, MySQL and PostgreSQL.
-
-**Data Processing and Analysis:** Python.
-
-**Development:** Git, Scrum and Linux.
-
-**Data Visualization:** Tableau and Power BI.
-
-**Machine Learning Modeling:** Classification, Regression and Clustering.
-
-**Machine Learning Deployment:** Heroku and AWS Cloud.
+>![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+> ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+> ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+> ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+> ![duckdb](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+> ![kafka](https://img.shields.io/badge/Kafka-232F3E?style=for-the-badge&logo=apache-kafka&logoColor=white)
+> ![redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+> ![rabbitmq](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+> ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+> ![kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+> ![terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+> ![prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+> ![pyspark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+> ![databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+> ![dbt core](https://img.shields.io/badge/dbt_Core-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+> ![pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+> ![airflow](https://img.shields.io/badge/Airflow-e84545?style=for-the-badge&logo=apache-airflow&logoColor=white)
+> ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+> ![fastapi](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+> ![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **:house_with_garden: How to reach me:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gutto-laudie/)
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guttolaudie@gmail.com)](mailto:guttolaudie@gmail.com)
 
-## My Top 2 Data Science Projects:
+**My stats:**
 
-### [Rossmann Sales Forecast](https://github.com/GuttoF/rossmann_store_sales)
-My strategy to solve this challenge was test machine learning models to forecast sales for the next 6 weeks and decide which will bring the best result for the company. After the modelling, the delivered solution was a telegram bot that receives the store number and returns the forescast for the next weeks.
-
-### [Client Churn Prediction](https://github.com/GuttoF/client_churn_prediction)
-With a classic churn prediction problem with imbalanced data, I train a machine learning algorithm to predict churn clients and create a strategy to bring back the clients. The solution was created with a help of the 0-1 Knapsack Problem and a possible investment. After that, the solution was a web app using streamlit that can create simulations using the knapsack-problem and the model, showing churn reduction, ROI and clients returned.
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=guttof&hide=jupyter%20notebook,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guttof&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 <p>
 </p> 
 
 <blockquote> “Be passionate and bold. Always keep learning. You stop doing useful things if you don't learn.”
 </p> Satya Nadella</p> </blockquote> 
+
+
